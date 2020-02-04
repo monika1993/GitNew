@@ -4,5 +4,6 @@ public class Sample {
         System.out.println("Third Commit With Issue Close #1");
         System.out.println("Fourth Commit With Issue Close #2");
         System.out.println("Fifth Commit With Tag 0.0.2");
+        System.out.println("Sixth Commit With No Tag");
     }
 }

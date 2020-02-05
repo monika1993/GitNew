@@ -8,5 +8,7 @@ public class Sample {
         System.out.println("Seventh Pull From Git in Projet");
         System.out.println("Eigth Commit With Issue Close #3 With Tag 0.0.3");
         System.out.println("Ninth Commit With Tag 0.0.3");
+        System.out.println("Tenth Commit With Issue Close #3");
+
     }
 }

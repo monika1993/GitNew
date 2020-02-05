@@ -10,7 +10,7 @@ public class Sample {
         System.out.println("Ninth Commit With Tag 0.0.3");
         System.out.println("Tenth Commit With Issue Close #3 !!!");
         System.out.println("Eleventh Commit With Issue Close #3");
-        System.out.println("Twelveth Commit With Issue Close #4");
+        System.out.println("Twelveth Commit With Issue Closes #4");
 
 
     }

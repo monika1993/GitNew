@@ -6,11 +6,7 @@ public class Sample {
         System.out.println("Fifth Commit With Tag 0.0.2");
         System.out.println("Sixth Commit With No Tag");
         System.out.println("Seventh Pull From Git in Projet");
-        System.out.println("Eigth Commit With Issue Close #3 With Tag 0.0.3");
-        System.out.println("Ninth Commit With Tag 0.0.3");
-        System.out.println("Tenth Commit With Issue Close #3 !!!");
-        System.out.println("Eleventh Commit With Issue Close #3");
-        System.out.println("Twelveth Commit With Issue Closes #4");
+        System.out.println("Eight Commit With Issue Close #3");
 
 
     }

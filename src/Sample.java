@@ -5,5 +5,6 @@ public class Sample {
         System.out.println("Fourth Commit With Issue Close #2");
         System.out.println("Fifth Commit With Tag 0.0.2");
         System.out.println("Sixth Commit With No Tag");
+        System.out.println("Pull From Git in Projet");
     }
 }
